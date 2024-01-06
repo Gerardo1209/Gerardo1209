@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gerardo1209
-- 👀 I’m interested in learning every thing about computers, TI and administration, also I'm interested in psychology.
+- 👀 I’m interested in learning every thing about computers, IT and administration, also I'm interested in psychology.
 - 🌱 I’m currently learning C,C++,Java,SQL,HTML,CSS,JavaScript, Python.
 - 💞️ I’m looking to collaborate on some open source projects trying to translate it to spanish.
 - 📫 Reach me by e-mail: fematdelgado.github@gmail.com
